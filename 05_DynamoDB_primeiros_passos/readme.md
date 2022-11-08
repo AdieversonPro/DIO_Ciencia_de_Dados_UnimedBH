@@ -1,4 +1,4 @@
-# # Desafio <img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="100" height="50"> Boas práticas com DynamoDB
+# Desafio <img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="100" height="50"> Boas práticas com DynamoDB
 ## DESCRIÇÃO DO DESAFIO
 
 Características Relacionais (SQL) e Não Relacionais (NoSQL) usando o mesmo banco de dados? Isso é possível? Com o DynamoDB sim! Entenda um pouco das possibilidades desse banco de dados totalmente gerenciado da AWS.
@@ -137,3 +137,4 @@ aws dynamodb query \
     <strong>Adieverson Silva</strong> </p> 
 <p align="center">
     <img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" height="200"></p>
+
