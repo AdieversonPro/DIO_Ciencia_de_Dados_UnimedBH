@@ -7,9 +7,10 @@
 ### Geração Tech Unimed-BH - Ciência de Dados
 
 <p align="center"><a href="https://github.com/AdieversonPro/DIO_Cencia_de_Dados_UnimedBH">
-    <img src= https://img.shields.io/badge/TOTAIS%20DE%20PROJETOS%20CONCLUÍDOS-9%2F11-green ></br>
+    <img src= https://img.shields.io/badge/TOTAIS%20DE%20PROJETOS%20CONCLUÍDOS-10%2F11-green ></br>
     <a href="https://github.com/AdieversonPro/DIO_Cencia_de_Dados_UnimedBH/tree/master/00_Desafios_de_Codigos"></a><img src= https://img.shields.io/badge/DESAFIOS%20DE%20CÓDIGOSS%20CONCLUÍDOS-6%2F6-succes ></a></br>
 </p>
+
 
 
 
@@ -45,15 +46,14 @@ O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguage
 O MySQL Workbench é uma ferramenta visual de design de banco de dados que integra desenvolvimento, administração, design, criação e manutenção de SQL em um único ambiente de desenvolvimento integrado para o sistema de banco de dados MySQL.<br><br>
 <strong>Visual Studio Code</strong><br>
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.<br><br>
-
-
-
+<strong>Amazon Web Services - AWS</strong><br>
+Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.com.<br><br>
+<strong>Amazon DynamoDB</strong><br>
+Dynamo é um grupo de técnicas que quando tomados em conjunto podem formar um sistema de armazenamento estruturado altamente disponível de valores-chave ou de um sistema de arquivos distribuído.<br><br>
+<strong>AWS CLI</strong><br>
+A AWS CLI (Command Line Interface) é uma ferramenta que facilita o controle de serviços da AWS, automatizando-os com uso de scripts.<br><br>
 
 > :warning: Falta algumas ferramentas que serão adicionados conforme for efetuados os projetos.
-
-
-
-
 
 
 
@@ -86,12 +86,14 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
   <h4>
      Modulo Imersão Cloud Computer
 </h4>  
-  <a href=" ">09 - Boas práticas com DynamoDB.</a><img src= http://img.shields.io/static/v1?label=DESAFIO&message=AGUARDANDO&color=red&style=for-the-badget ></br><br>
+  <a href="https://github.com/AdieversonPro/DIO_Ciencia_de_Dados_UnimedBH/tree/master/05_DynamoDB_primeiros_passos">09 - Boas práticas com DynamoDB.</a><img src= https://img.shields.io/badge/DESAFIO-CONCLUÍDO-success ></br><br>
   <a href=" ">10 - Explorando Dados Demográficos com Serviços Big Data na AWS.</a><img src= http://img.shields.io/static/v1?label=DESAFIO&message=AGUARDANDO&color=red&style=for-the-badget ></br><br>
   <h4>
      Modulo Machine Learning
 </h4>  
   <a href="https://github.com/AdieversonPro/DIO_Cencia_de_Dados_UnimedBH/tree/master/04_Rede_Neural_Transfer_Learning">11 - Treinamento de Redes Neurais com Transfer Learning.</a><img src= https://img.shields.io/badge/DESAFIO-CONCLUÍDO-success></br><br></div>
+
+
 
 
 
