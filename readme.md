@@ -7,16 +7,9 @@
 ### Geração Tech Unimed-BH - Ciência de Dados
 
 <p align="center"><a href="https://github.com/AdieversonPro/DIO_Cencia_de_Dados_UnimedBH">
-    <img src= https://img.shields.io/badge/TOTAIS%20DE%20PROJETOS%20CONCLUÍDOS-10%2F11-green ></br>
+    <img src= https://img.shields.io/badge/TOTAIS%20DE%20PROJETOS%20CONCLUÍDOS-11%2F11-success ></br>
     <a href="https://github.com/AdieversonPro/DIO_Cencia_de_Dados_UnimedBH/tree/master/00_Desafios_de_Codigos"></a><img src= https://img.shields.io/badge/DESAFIOS%20DE%20CÓDIGOSS%20CONCLUÍDOS-6%2F6-succes ></a></br>
 </p>
-
-
-
-
-
-
-
 
 
 ## O Bootcamp
@@ -52,12 +45,12 @@ Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços 
 Dynamo é um grupo de técnicas que quando tomados em conjunto podem formar um sistema de armazenamento estruturado altamente disponível de valores-chave ou de um sistema de arquivos distribuído.<br><br>
 <strong>AWS CLI</strong><br>
 A AWS CLI (Command Line Interface) é uma ferramenta que facilita o controle de serviços da AWS, automatizando-os com uso de scripts.<br><br>
-
-> :warning: Falta algumas ferramentas que serão adicionados conforme for efetuados os projetos.
-
-
-
-</div>
+<strong>AWS S3</strong><br>
+Ou Amazon Simple Storage Service é um serviço oferecido pela Amazon Web Services que fornece armazenamento de objetos por meio de uma interface de serviço da web.<br><br>
+<strong>AWS ATHENA</strong><br>
+È um serviço de consultas interativas que facilita a análise de dados no Amazon S3 usando SQL padrão.<br><br>
+<strong>AWS QuickSight</strong><br>
+É serviço com base na nuvem que entrega insights de inteligência de negócios de forma rápida e fácil.<br><br>
 
 <hr size=0.5>
 
@@ -87,16 +80,14 @@ A AWS CLI (Command Line Interface) é uma ferramenta que facilita o controle de 
      Modulo Imersão Cloud Computer
 </h4>  
   <a href="https://github.com/AdieversonPro/DIO_Ciencia_de_Dados_UnimedBH/tree/master/05_DynamoDB_primeiros_passos">09 - Boas práticas com DynamoDB.</a><img src= https://img.shields.io/badge/DESAFIO-CONCLUÍDO-success ></br><br>
-  <a href=" ">10 - Explorando Dados Demográficos com Serviços Big Data na AWS.</a><img src= http://img.shields.io/static/v1?label=DESAFIO&message=AGUARDANDO&color=red&style=for-the-badget ></br><br>
+  <a href="https://github.com/AdieversonPro/DIO_Ciencia_de_Dados_UnimedBH/tree/master/06_Athena_Dados_Demograficos">10 - Explorando Dados Demográficos com Serviços Big Data na AWS.</a><img src= https://img.shields.io/badge/DESAFIO-CONCLUÍDO-success ></br><br>
   <h4>
      Modulo Machine Learning
 </h4>  
   <a href="https://github.com/AdieversonPro/DIO_Cencia_de_Dados_UnimedBH/tree/master/04_Rede_Neural_Transfer_Learning">11 - Treinamento de Redes Neurais com Transfer Learning.</a><img src= https://img.shields.io/badge/DESAFIO-CONCLUÍDO-success></br><br></div>
 
 
-
-
-
+<hr size=7>
 
 
 <div align="center">
